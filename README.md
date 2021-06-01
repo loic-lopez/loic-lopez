@@ -9,4 +9,7 @@
   <a href="https://github.com/loic-lopez/cpp_rtype">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_rtype&theme=vue-dark" />
   </a>
+  <a href="https://github.com/loic-lopez/leaf">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=leaf&theme=vue-dark" />
+  </a>
 </div>
