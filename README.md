@@ -20,7 +20,12 @@
    <a href="https://github.com/loic-lopez/cpp_arcade">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_arcade&theme=vue-dark" />
   </a>
-    <a href="https://github.com/loic-lopez/cpp_arcade">
+  <a href="https://github.com/loic-lopez/cpp_arcade">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_arcade&theme=vue-dark" />
+  </a>
+  <hr/>
+  <h3 align="center">Personal Experiments</h3>
+  <a href="https://github.com/loic-lopez/leaf">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=leaf&theme=vue-dark" />
   </a>
 </div>
