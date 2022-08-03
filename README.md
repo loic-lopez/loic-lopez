@@ -19,14 +19,14 @@
   <a href="https://github.com/loic-lopez/cpp_rtype">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_rtype&theme=vue-dark" />
   </a>
+  <a href="https://github.com/loic-lopez/cpp_zia">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_zia&theme=vue-dark" />
+  </a>
   <a href="https://github.com/loic-lopez/cpp_indie_studio">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_indie_studio&theme=vue-dark" />
   </a>
    <a href="https://github.com/loic-lopez/cpp_arcade">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_arcade&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/loic-lopez/cpp_zia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_zia&theme=vue-dark" />
   </a>
   <a href="https://github.com/loic-lopez/cpp_babel">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loic-lopez&repo=cpp_babel&theme=vue-dark" />
